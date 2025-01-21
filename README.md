@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a developer who is enthusiastic about learning and exploring new technologies. Here you can find some of the projects I've worked on in the field of Artificial Intelligence.
 
-## 🛠️ Technologies & Tools I am familiar with
+## 🛠️ Technologies & Tools I am Familiar With
 
 - **Languages**: Python, Javascript
 - **Web Development**: HTML, CSS/SCSS, React.
