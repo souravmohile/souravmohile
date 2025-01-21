@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a developer who is enthusiastic about learning
 
 Here are a few projects that I'm proud of:
 
-- **[House Price Prediction](https://github.com/souravmohile/house-price-prediction)**: This project aims to predict house prices in Mumbai, the city I am from. This is an enhanced project is based on the second chapter "End to end machine learning project" from the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). The original project predicts house prices in california. In this project, we implement some additional ML methods as well as evaluation methods to imrpove the prediction accuracy. 
+- **[House Price Prediction](https://github.com/souravmohile/house-price-prediction)**: This project aims to predict house prices in Mumbai, the city I am from. This is an enhanced project is based on the second chapter "End-to-end machine learning project" from the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). The original project predicts house prices in California. In this project, we implement some additional ML methods as well as evaluation methods to improve the prediction accuracy. 
 
 - **[Fruit Maturity Detector](https://github.com/souravmohile/FruitMaturityDetector)**: In this project, we use a live camera feed to view different types of fruits and then classify them as raw, ripe or overripe and also classify the type of fruit. This project was done as a part of my final year undergraduate degree project. 
 
@@ -30,9 +30,19 @@ Here are a few projects that I'm proud of:
 - **[Book Reccomendation System](https://github.com/souravmohile/book-reccomendation-system)**: This is a recommendation project built using PyTorch.
 
 Although I would love to share the following projects, I am not permitted to do so since these now belong to Stratiphy, the company I previously worked with.
-- <ins>**Financial Statement Analysis**:</ins> This project deals with extracting and analysing data from multiple types of financial documents. The objective of this project was to generate a time series of scores for each company in the following 5 sectors - Risk, Market Conditions, Innovation, Regulatory Compliance and ESG. These scores were later added into a separate pipeline project used for time series prediction of company metrics. Apart from this, the project also provided a feature to summarise documents and chat with the data to gain insights. This was implemented using Retrievel Augmented Generation along with Llama 3.1. 
+- <ins>**Financial Statement Analysis**:</ins> This project deals with extracting and analysing data from multiple types of financial documents. The objective of this project was to generate a time series of scores for each company in the following 5 sectors - Risk, Market Conditions, Innovation, Regulatory Compliance and ESG. These scores were later added to a separate pipeline project used for time series prediction of company metrics. Apart from this, the project also provided a feature to summarise documents and chat with the data to gain insights. This was implemented using Retrieval Augmented Generation along with Llama 3.1. 
 
-- <ins>**Chatbot for financial education**:</ins> This chatbot aimed to act as a helping agent for financial education on the app, where users could ask any questions about the company, or about finance in general. It was important to make sure that the chatbot remained unbiased and never provided any sort of financial advice. 
+- <ins>**Chatbot for financial education**:</ins> This chatbot aimed to act as a helping agent for financial education on the app, where users could ask any questions about the company, or about finance in general. It was important to make sure that the chatbot remained unbiased and never provided any sort of financial advice.
+
+## 🎹 ♟ Hobbies
+
+- Apart from tech, I like to spend my time playing piano and chess! I have finished my Grade 8 in piano performance from the Trinity College of London.
+ 
+- You can listen to my performances on [YouTube](https://www.youtube.com/@souravmohile5585).
+
+- I have also worked as a freelance music producer and have had the opportunity to work with many talented artists from various stylistic backgrounds, so I would love to talk about music as well! 
+
+- I am ranked 1250 on chess.com and would love to play a game with you so send over a request! -> [Chess.com - souravmohile](https://www.chess.com/member/souravmohile)
 
 ## 📫 How to Reach Me
 
