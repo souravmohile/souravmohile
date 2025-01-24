@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a developer who is enthusiastic about learning
 - **Languages**: Python, Javascript
 - **Web Development**: HTML, CSS/SCSS, React.
 - **Databases**: PostgreSQL, FAISS, Pinecone.
-- **ML / Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, PyTorch, TensorFlow, HuggingFace, Langchain and Ollama.
+- **ML / Data Science**: Pandas, NumPy, Matplotlib, Seaborn, NLP, OpenCV, Transformers, Scikit-Learn, PyTorch, TensorFlow, Ollama, Langchain and HuggingFace.
 - **Version Control**: Git, GitHub
 - **Other Tools**: Docker, Metabase.
 
