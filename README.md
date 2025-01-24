@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a developer who is enthusiastic about learning
 
 Here are a few projects that I'm proud of:
 
-- **[House Price Prediction](https://github.com/souravmohile/house-price-prediction)**: This project aims to predict house prices in Mumbai, the city I am from. This is an enhanced project is based on the second chapter "End-to-end machine learning project" from the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). The original project predicts house prices in California. In this project, we implement some additional ML methods as well as evaluation methods to improve the prediction accuracy. 
+- **[House Price Prediction](https://github.com/souravmohile/house-price-prediction)**: This project aims to predict house prices in Mumbai, the city I am from. This is an enhanced project based on the second chapter "End-to-end machine learning project" from the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). The original project predicts house prices in California. In this project, we implement some additional ML methods as well as evaluation methods to improve the prediction accuracy. 
 
 - **[Fruit Maturity Detector](https://github.com/souravmohile/FruitMaturityDetector)**: In this project, we use a live camera feed to view different types of fruits and then classify them as raw, ripe or overripe and also classify the type of fruit. This project was done as a part of my final year undergraduate degree project. 
 
