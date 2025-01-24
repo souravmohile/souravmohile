@@ -1,6 +1,6 @@
 # Hi there, I'm Sourav Mohile 👋
 
-Welcome to my GitHub profile! I'm a developer who is enthusiastic about learning and exploring new technologies. Here you can find some of the projects I've worked on in the field of Artificial Intelligence.
+Welcome to my GitHub profile! I'm an AI researcher enthusiastic about learning and exploring new technologies. I recently graduated with an MSc in Computer Science from the University of Birmingham in 2024. Here you can find some of the projects I've worked on in the field of AI.
 
 ## 🛠️ Technologies & Tools I am Familiar With
 
