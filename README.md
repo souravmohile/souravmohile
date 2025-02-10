@@ -21,14 +21,22 @@ Welcome to my GitHub profile! I'm an AI researcher enthusiastic about learning a
 
 Here are a few projects that I'm proud of:
 
-- **[House Price Prediction](https://github.com/souravmohile/house-price-prediction)**: This project aims to predict house prices in Mumbai, the city I am from. This is an enhanced project based on the second chapter "End-to-end machine learning project" from the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). The original project predicts house prices in California. In this project, we implement some additional ML methods as well as evaluation methods to improve the prediction accuracy. (ongoing)
-
 - **[Fruit Maturity Detector](https://github.com/souravmohile/FruitMaturityDetector)**: In this project, we use a live camera feed to view different types of fruits and then classify them as raw, ripe or overripe and also classify the type of fruit. This project was done as a part of my final year undergraduate degree project. (ongoing)
 
 - **[British Airways Reviews Analysis and Customer Modelling](https://github.com/souravmohile/BA-ReviewAnalysis)**: In this project, we perform sentiment analysis on BA customer reviews and create visualisations to gain insights on the data. Further, we create a predictive model to understand what influences the customer to book a flight. This project was a job simulation on Forage for British Airways where I was given the data and some instructions about the expectations of the project. The rest has been solely done by me.
 
-- **[Book Reccomendation System](https://github.com/souravmohile/book-reccomendation-system)**: This is a recommendation project built using PyTorch. (ongoing)
+- **[Fireball and Bolides Exploratory Data Analysis](https://github.com/souravmohile/fireball-data-analysis)**: This is an Exploratory Data Analysis that takes a look at NASA CNEOS data for fireballs and bolides. I have written an in-depth blog about the results on Medium.
 
+
+Ongoing Projects:
+
+- **[House Price Prediction](https://github.com/souravmohile/house-price-prediction)**: This project aims to predict house prices in Mumbai, the city I am from. This is an enhanced project based on the second chapter "End-to-end machine learning project" from the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). The original project predicts house prices in California. In this project, we implement some additional ML methods as well as evaluation methods to improve the prediction accuracy. (ongoing)
+  
+- **[Song Reccomendation System](https://github.com/souravmohile/song-reccomendation-system)**: This is a recommendation project built using PyTorch. 
+
+- Sharpe Ratio prediction (Time Series Analysis)
+
+  
 Although I would love to share the following projects, I am not permitted to do so since these now belong to Stratiphy, the company I previously worked with.
 - <ins>**Financial Statement Analysis**:</ins> This project deals with extracting and analysing data from multiple types of financial documents. The objective of this project was to generate a time series of scores for each company in the following 5 sectors - Risk, Market Conditions, Innovation, Regulatory Compliance and ESG. These scores were later added to a separate pipeline project used for time series prediction of company metrics. Apart from this, the project also provided a feature to summarise documents and chat with the data to gain insights. This was implemented using Retrieval Augmented Generation along with Llama 3.1. 
 
@@ -48,6 +56,7 @@ Although I would love to share the following projects, I am not permitted to do 
 
 - **Email**: [souravmohile@icloud.com](mailto:souravmohile@icloud.com)
 - **LinkedIn**: [souravmohile](https://www.linkedin.com/in/souravmohile)
+- **Medium**: [souravmohile](https://medium.com/@souravmohile)
 
 ## 💬 Let's Connect!
 
