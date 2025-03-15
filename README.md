@@ -32,9 +32,7 @@ Ongoing Projects:
 
 - **[House Price Prediction](https://github.com/souravmohile/house-price-prediction)**: This project aims to predict house prices in Mumbai, the city I am from. This is an enhanced project based on the second chapter "End-to-end machine learning project" from the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). The original project predicts house prices in California. In this project, we implement some additional ML methods as well as evaluation methods to improve the prediction accuracy. (ongoing)
   
-- **[Song Reccomendation System](https://github.com/souravmohile/song-reccomendation-system)**: This is a recommendation project built using PyTorch. 
-
-- Sharpe Ratio prediction (Time Series Analysis)
+- Volatility predictison (Time Series Analysis)
 
   
 Although I would love to share the following projects, I am not permitted to do so since these now belong to Stratiphy, the company I previously worked with.
